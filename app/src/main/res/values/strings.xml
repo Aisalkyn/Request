@@ -1,0 +1,212 @@
+<resources>
+    <string name="app_name">RecyclerViewRequestAUCA</string>
+
+    <string-array name="request">
+        <item name="general">General</item>
+        <item name="admission">Admission</item>
+        <item name="finance">Finance</item>
+        <item name="human_resources">Human Resources</item>
+        <item name="registrar">Registrar</item>
+    </string-array>
+
+    <string-array name="general">
+        <item name="uidc">UIDC</item>
+        <item name="locker">Locker</item>
+        <item name="auca_cafeterias">AUCA Cafeterias</item>
+        <item name="lost_Found">Lost and Found</item>
+        <item name="auca_parking">AUCA parking</item>
+    </string-array>
+
+    <string-array name="admission">
+        <item name="freshmen_study_agreements"> Freshmen study agreements</item>
+        <item name="student_files"            > Student Files</item>
+        <item name="auca_entrance_exams"      >AUCA Entrance Exams</item>
+
+    </string-array>
+    <string-array name="finance">
+        <item name="reimbursement"                 >Reimbursement</item>
+        <item name="consultations"                 >Consultations</item>
+        <item name="payment_through_KICB_terminals">Payment through KICB terminals</item>
+        <item name="cash_in_terminal"              >Cash-in terminal</item>
+        <item name="tuition_payment"               >Tuition Payment</item>
+    </string-array>
+
+    <string-array name="human_resources">
+        <item name="certificate_from_work_place"                >Certificate from work place</item>
+        <item name="visa"                                       >Visa</item>
+        <item name="work_permit_upon_arrival"                   >Work permit (upon arrival)</item>
+        <item name="other_assistance_for_international_employee">Other assistance for international employee</item>
+        <item name="new_employee_hiring"                        >New employee hiring</item>
+        <item name="hr_forms"                                   >HR forms</item>
+    </string-array>
+
+    <string-array name="registrar">
+        <item name="official_Transcript"   >Official Transcript</item>
+        <item name="certificate_in_English">Certificate in English</item>
+        <item name="certificate_in_Russian">Certificate in Russian</item>
+        <item name="academic_Applications" >Academic Applications</item>
+        <item name="academic_Forms"        >Academic Forms</item>
+        <item name="room_booking"          >Room booking</item>
+        <item name="online_registration"   >Online registration</item>
+    </string-array>
+
+
+    <string-array name="uidc">
+        <item name="check_status_of_UID_card">Check status of UID card</item>
+        <item name="apply_for_UID_card">Apply for UID card</item>
+        <item name="uID_card_activation">UID card activation</item>
+        <item name="consultation">Consultation</item>
+    </string-array>
+    <string-array name="locker">
+        <item name="register_locker">register locker</item>
+        <item name="request_on_removing_padlock">Request on removing padlock</item>
+        <item name="shower_locker">Shower locker</item>
+    </string-array>
+    <string-array name="auca_cafeterias">
+        <item name="certificate_for_cash">Certificate for cash</item>
+    </string-array>
+    <string-array name="lost_Found">
+        <item name="lost">Lost</item>
+        <item name="found">Found</item>
+    </string-array>
+    <string-array name="auca_parking">
+    </string-array>
+
+
+    <string-array name="freshmen_study_agreements">
+        <item name="pay_via_POS">Pay via POS</item>
+        <item name="pay_using_cash">Pay using cash</item>
+    </string-array>
+    <string-array name="student_files">
+        <item name="oRT_Certificate">ORT Certificate</item>
+        <item name="school_Leaving_Certificate_Attestat">School Leaving Certificate: Attestat</item>
+        <item name="complete_Check-out_dismissed">Complete Check-out: dismissed</item>
+        <item name="complete_Check-out_graduate">Complete Check-out: graduate</item>
+        <item name="complete_Check-out_study abroad">Complete Check-out: study abroad</item>
+    </string-array>
+    <string-array name="auca_entrance_exams">
+        <item name="pay_via_POS">Pay via POS</item>
+        <item name="pay_using_cash">Pay using cash</item>
+    </string-array>
+
+
+    <string-array name="reimbursement">
+        <item name="medical_expenses">Medical expenses</item>
+        <item name="travel_expenses">Travel Expenses</item>
+        <item name="wrongly_Incorrectly_paid_amounts">Wrongly/Incorrectly paid amounts</item>
+        <item name="business_trip_expenses">Business trip expenses</item>
+    </string-array>
+    <string-array name="consultations">
+        <item name="request_for_payment">Request for payment</item>
+        <item name="report_for_advance_payment">Report for advance payment</item>
+        <item name="other">Other</item>
+    </string-array>
+    <string-array name="payment_through_KICB_terminals">
+        <item name="consultation_on_how_to_use_cash_in_terminals">Consultation on how to use cash-in terminals</item>
+        <item name="payment_through_POS_terminal">Payment through POS-terminal</item>
+    </string-array>
+    <string-array name="cash_in_terminal">
+        <item name="paper_is_run_out">Paper is run out</item>
+        <item name="temporary_out_of_connection">Temporary out of connection</item>
+        <item name="does_not_recognize_my_bank_account">Does not recognize my bank account</item>
+    </string-array>
+    <string-array name="tuition_payment">
+        <item name="providing_AUCA_bank_details">Providing AUCA bank details</item>
+        <item name="consultation_on_paid_amounts_for_tuition_debts">Consultation on paid amounts for tuition, debts</item>
+        <item name="updating_the_database_on_students_tuitions">Updating the database on students’ tuitions: bank receipts</item>
+    </string-array>
+
+
+    <string-array name="certificate_from_work_place">
+        <item name="work_place_certificate_in_English">Work place certificate in English</item>
+        <item name="work_place_certificate_in_Russian">Work place certificate in Russian</item>
+        <item name="work_place_certificate_with_salary_in_English">Work place certificate with salary in English</item>
+        <item name="work_place_certificate_with_salary_in_Russian">Work place certificate with salary in Russian</item>
+        <item name="certificate_for_Embassies_indicating_the_dates_of_Business_trips">Certificate for Embassies indicating the dates of Business trips</item>
+
+    </string-array>
+    <string-array name="visa">
+        <item name="Letter of support for visa at Manas airport">Letter of support for visa at Manas airport</item>
+        <item name="Letter of support for visa at KG Embassy">Letter of support for visa at KG Embassy</item>
+        <item name="Registration of visa">Registration of visa</item>
+    </string-array>
+    <string-array name="work_permit_upon_arrival">
+        <item name="Translation and notarization of diploma">Translation and notarization of diploma</item>
+        <item name="HIV Certificate at Bishkek AIDS Center">HIV Certificate at Bishkek AIDS Center</item>
+        <item name="colored photo 3*4 size (mat photo on white background with corner on the right side)">colored photo 3*4 size (mat photo on white background with corner on the right side)</item>
+    </string-array>
+    <string-array name="other_assistance_for_international_employee">
+        <item name="Accommodation issues">Accommodation issues</item>
+        <item name="Meeting at the airport">Meeting at the airport</item>
+        <item name="Campus and city orientation">Campus and city orientation</item>
+        <item name="Medical/Emergency help">Medical/Emergency help</item>
+    </string-array>
+    <string-array name="new_employee_hiring">
+        <item name="List of documents to be submitted">List of documents to be submitted</item>
+    </string-array>
+    <string-array name="hr_forms">
+        <item name="Vacation forms">Vacation forms</item>
+        <item name="Application form on resuming work after vacation">Application form on resuming work after vacation</item>
+        <item name="Extract from workbook (выписка из трудовой книжки)">Extract from workbook (выписка из трудовой книжки)</item>
+        <item name="The copy of workbook (копия трудовой книжки)">The copy of workbook (копия трудовой книжки)</item>
+    </string-array>
+
+
+    <string-array name="official_Transcript">
+        <item name="English Transcript ">English Transcript</item>
+        <item name="Russian Transcript ">Russian Transcript</item>
+        <item name="FedEx/DHL service ">FedEx/DHL service</item>
+    </string-array>
+    <string-array name="certificate_in_English">
+        <item name="Academic records">Academic records</item>
+        <item name="Student status">Student status</item>
+        <item name="Visa">Visa</item>
+        <item name="Official language of instruction">Official language of instruction</item>
+        <item name="Graduate">Graduate</item>
+        <item name="AUCA Diploma verification">AUCA Diploma verification</item>
+        <item name="Tuition">Tuition</item>
+        <item name="Dormitory">Dormitory</item>
+        <item name="FedEx/DHL service">FedEx/DHL service</item>
+    </string-array>
+    <string-array name="certificate_in_Russian">
+        <item name="Academic records">Academic records</item>
+        <item name="Student status">Student status</item>
+        <item name="Form #26">Form #26</item>
+        <item name="Visa">Visa</item>
+        <item name="Social Fund">Social Fund</item>
+        <item name="Tuition">Tuition</item>
+        <item name="Graduate">Graduate</item>
+        <item name="AUCA Diploma verification">AUCA Diploma verification</item>
+        <item name="Dormitory">Dormitory</item>
+        <item name="Archive">Archive</item>
+    </string-array>
+    <string-array name="academic_Applications">
+        <item name="Academic leave">Academic leave</item>
+        <item name="Dismissal">Dismissal</item>
+        <item name="Readmission after academic leave">Readmission after academic leave</item>
+        <item name="Readmission after study abroad">Readmission after study abroad</item>
+        <item name="Readmission after dismissal">Readmission after dismissal</item>
+        <item name="Request to change status (part/full-time)">Request to change status (part/full-time)</item>
+        <item name="Change name in the Academic Database">Change name in the Academic Database</item>
+        <item name="Transfer within AUCA">Transfer within AUCA</item>
+
+    </string-array>
+    <string-array name="academic_Forms">
+        <item name="Withdrawal">Withdrawal</item>
+        <item name="Incomplete">Incomplete</item>
+        <item name="Add-Drop">Add-Drop</item>
+        <item name="Study Card">Study Card</item>
+        <item name="Check-out">Check-out</item>
+
+    </string-array>
+    <string-array name="room_booking">
+        <item name="Reserve a classroom">Reserve a classroom</item>
+        <item name="Reserve a meeting room">Reserve a meeting room</item>
+        <item name="Apply for additional seats">Apply for additional seats</item>
+
+    </string-array>
+    <string-array name="online_registration">
+        <item name="Financial approval">Financial approval</item>
+    </string-array>
+
+</resources>
